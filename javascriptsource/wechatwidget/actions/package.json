@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "crypto-js": "^4.1.1",
+    "crypto-js": "^4.2.0",
     "jssha": "^3.2.0",
     "wechat-jssdk": "^5.0.7",
     "weixin-js-sdk": "^1.6.0",
